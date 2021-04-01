@@ -1,1 +1,8 @@
+# Image Transform Project
+
+This is the final course project for the course Object Orientated Data Structures in C++.
+In this assignment, you will begin with foundational work that will be used for several future assignments in this course. Specifically,
+in Part 1 you will create a simple C++ class that represents a colored pixel; you are also provided with a PNG image class that encapsulates the loading and saving of image files. 
+(You do not need to implement the PNG class yourself, but you'll find it enlightening to study the code provided.) In Part 2, you
+will use the pixel and PNG classes from Part 1 to transform an image in several different ways.
 
